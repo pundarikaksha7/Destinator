@@ -14,8 +14,6 @@ from generate_location_pairs import LOCATION_PAIRS
 import json 
 
 # Constants
-OPENWEATHER_API_KEY = "b9a9b00c3e98ba742521839609c1c501"
-GOOGLE_MAPS_API_KEY = "AIzaSyDC2H0UBVTl5TIZoByK-Ps7KItGY58LzEQ"
 DB_NAME = "destinator.db"
 X = 10  # Number of location pairs per day
 
