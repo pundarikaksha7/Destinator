@@ -16,6 +16,8 @@ import json
 # Constants
 DB_NAME = "destinator.db"
 X = 10  # Number of location pairs per day
+OPENWEATHER_API_KEY = "YOUR_KEY"
+GOOGLE_MAPS_API_KEY = "YOUR_GOOGLE_KEY"
 
 # Sample location pairs across Delhi
 # LOCATION_PAIRS = [
